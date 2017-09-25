@@ -1,0 +1,36 @@
+{
+  "name": "carona-universitaria",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@turf/random": "^4.7.3",
+    "chart.js": "^2.6.0",
+    "font-awesome": "^4.6.3",
+    "history": "^4.7.2",
+    "immutable": "^3.8.1",
+    "jquery": "^3.1.1",
+    "pigeon-maps": "^0.8.2",
+    "pigeon-marker": "^0.3.2",
+    "popper.js": "^1.12.5",
+    "rea": "0.0.1",
+    "react": "^15.6.1",
+    "react-chartjs": "^0.8.0",
+    "react-chartjs-2": "^2.6.2",
+    "react-dom": "^15.6.1",
+    "react-google-map": "^3.0.1",
+    "react-google-maps-loader": "^3.0.1",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-router-link": "^2.0.2",
+    "react-scripts": "1.0.12",
+    "sweetalert": "^2.0.3",
+    "turf": "^3.0.14",
+    "turf-random": "^3.0.12"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
